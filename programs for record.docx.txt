@@ -123,4 +123,4 @@ b.           Update details.
                       ii.            Update Salary
 c.           Delete an employee based on a lastname
  
-Write the python program and its output.
+Write the python program and its output
